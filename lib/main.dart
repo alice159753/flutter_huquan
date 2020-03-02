@@ -33,7 +33,6 @@ class MyApp extends StatelessWidget {
   final Widget home;
 
   MyApp({this.home}) {
-    Log.init();
     final router = Router();
     Routes.configureRoutes(router);
     Application.router = router;

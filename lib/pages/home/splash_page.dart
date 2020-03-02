@@ -68,7 +68,7 @@ class _SplashPageState extends State<SplashPage> {
   }
 
   _goLogin() {
-    Log.e("go loginpage");
+    LogUtils.i("SplashPage", "go loginpage");
     NavigatorUtils.push(context, LoginRouter.loginPage, replace: true);
   }
 
