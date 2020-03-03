@@ -1,4 +1,4 @@
-package com.example.flutterhuquan
+package com.huaban.flutterhuquan
 
 import androidx.annotation.NonNull;
 import android.content.BroadcastReceiver

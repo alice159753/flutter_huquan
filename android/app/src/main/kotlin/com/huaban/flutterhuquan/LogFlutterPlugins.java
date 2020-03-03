@@ -1,4 +1,4 @@
-package com.huabanyhq.flutter.flutter_huabanyhq;
+package com.huaban.flutterhuquan;
 
 import android.content.Context;
 import android.util.Log;
